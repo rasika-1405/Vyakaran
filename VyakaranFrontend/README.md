@@ -8,7 +8,7 @@ Features:
   <li>Virtual Keyboard Support for ease of writing</li>
 </ol>
 
-### Note: This front end is jointly associated with <a href="https://github.com/ZeroNP/VyakaranBackend">Vyakaran backend</a>.
+### Note: This front end is jointly associated with <a href="https://github.com/rasika-1405/Vyakaran/blob/main/VyakaranBackend/README.md">Vyakaran backend</a>.
 
 ## Implementation Screenshots
 
